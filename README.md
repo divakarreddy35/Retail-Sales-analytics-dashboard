@@ -87,6 +87,6 @@ The following steps were applied before building the dashboard:
 --> Interact with filters & charts to explore insights
 
 Author:
-Divakar Reddy Singareddygari
-Final-year B.Tech | Aspiring Data Analyst
+Divakar Reddy Singareddygari ||
+Final-year B.Tech || Aspiring Data Analyst ||
 Skills: Excel, SQL, Power BI, Python

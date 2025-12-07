@@ -1,5 +1,5 @@
 This project presents an interactive Retail Sales Analytics Dashboard built using Power BI to analyze sales performance, identify business trends, and support decision-making.
-The dataset includes product sales, quantities, revenue, and other KPIs essential for retail performance analysis.
+The dataset includes product sales, revenue, and other KPIs essential for retail performance analysis.
 
 <img width="1279" height="717" alt="Screenshot 2025-12-03 111906" src="https://github.com/user-attachments/assets/d2c70fca-198a-4dfe-9c3d-037c33dca7c2" />
 
